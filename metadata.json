@@ -1,0 +1,5 @@
+{
+  "name": "YoLearn-Campus",
+  "description": "YoLearn is a peer-to-peer skill exchange platform designed for college students to share knowledge, learn new skills, and connect with peers on campus. It features a dashboard, matching system, student profiles, and gamification elements.",
+  "requestFramePermissions": []
+}
