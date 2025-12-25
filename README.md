@@ -2,7 +2,7 @@
 
 **YoLearn-Campus** is a full web application built as part of the **HackBeyondLimits** hackathon, designed to deliver an intuitive and engaging learning experience for users on campus. This project won the **🏆 Best UI Award** at the event for its clean interface and user-focused design.
 
-🔗 Live Demo: https://yo-learn-campus.vercel.app/ :contentReference[oaicite:1]{index=1}
+🔗 Live Demo: https://yo-learn-campus.vercel.app/
 
 ---
 
